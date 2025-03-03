@@ -1,0 +1,47 @@
+[
+    {
+        "instruction": "As someone involved with Eating Disorder. \nDo you avoid certain or many foods, not for a medical reason such as gluten sensitivity, but because of fear of experiencing negative consequences like choking or vomiting AND has this led to major problems for you (e.g., significant weight loss, significant nutritional problems; major impairment in functioning)? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "20 .Do you avoid certain or many foods, not for a medical reason such as gluten sensitivity, but because of fear of experiencing negative consequences like choking or vomiting AND has this led to major problems for you (e.g., significant weight loss, significant nutritional problems; major impairment in functioning)? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "You're now part of the Eating Disorder. \nWhen was the last time you went on a diet? \n a. I have never been on a diet \n b. I was on a diet about one year ago \n c. I was on a diet about 6 months ago \n d. I was on a diet about 3 months ago \n e. I was on a diet about 1 month ago \n f. I was on a diet less than 1 month ago \n g. I\u2019m on a diet now. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "7 .When was the last time you went on a diet? \n a. I have never been on a diet \n b. I was on a diet about one year ago \n c. I was on a diet about 6 months ago \n d. I was on a diet about 3 months ago \n e. I was on a diet about 1 month ago \n f. I was on a diet less than 1 month ago \n g. I\u2019m on a diet now"
+    },
+    {
+        "instruction": "You're a fresh voice in Eating Disorder. \nDo you ever feel fat? \n a. Never \n b. Rarely \n c. Sometimes \n d. Often \n e. Always. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "9 .Do you ever feel fat? \n a. Never \n b. Rarely \n c. Sometimes \n d. Often \n e. Always"
+    },
+    {
+        "instruction": "Engage with the Eating Disorder by selecting the option that best suits your perspective.. \nDo you avoid certain or many foods, not for a medical reason such as gluten sensitivity, but because of fear of experiencing negative consequences like choking or vomiting AND has this led to major problems for you (e.g., significant weight loss, significant nutritional problems; major impairment in functioning)? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "20 .Do you avoid certain or many foods, not for a medical reason such as gluten sensitivity, but because of fear of experiencing negative consequences like choking or vomiting AND has this led to major problems for you (e.g., significant weight loss, significant nutritional problems; major impairment in functioning)? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "You're now part of the Eating Disorder. \nIn the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Used diuretics or laxatives? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "14 .In the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Used diuretics or laxatives? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "As someone involved with Eating Disorder. \nHow distressed or upset have you felt about these episodes? \n a. Not at all \n b. A little \n c. Moderately \n d. Greatly \n e. Extremely. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "12 .How distressed or upset have you felt about these episodes? \n a. Not at all \n b. A little \n c. Moderately \n d. Greatly \n e. Extremely"
+    },
+    {
+        "instruction": "You're now engaging with the Eating Disorder community. \nDo you consume a small amount of food (i.e., less than 1200 calories/day) on a regular basis to influence your shape or weight? \n a. No \n b. Yes. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "17 .Do you consume a small amount of food (i.e., less than 1200 calories/day) on a regular basis to influence your shape or weight? \n a. No \n b. Yes"
+    },
+    {
+        "instruction": "Engage with the Eating Disorder by selecting the option that best suits your perspective.. \nDuring these episodes of eating an unusually large amount of food with a sense of loss of control, do you: \n a. Eat much more rapidly than normal? \n b. Eat until feeling uncomfortably full? \n c. Eat large amounts of food when not feeling physically hungry? \n d. Eat alone because of feeling embarrassed by how much you are eating? \n e. Feel disgusted, depressed, or very guilty afterward?. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "11 .During these episodes of eating an unusually large amount of food with a sense of loss of control, do you: \n a. Eat much more rapidly than normal? \n b. Eat until feeling uncomfortably full? \n c. Eat large amounts of food when not feeling physically hungry? \n d. Eat alone because of feeling embarrassed by how much you are eating? \n e. Feel disgusted, depressed, or very guilty afterward?"
+    },
+    {
+        "instruction": "You're now engaging with the Eating Disorder community. \nWhat was your lowest weight in the past year, including today, in pounds?. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "2 .What was your lowest weight in the past year, including today, in pounds?"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "instruction": "You're contributing to Keto and Diet. \nIn the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Fasted? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "16 .In the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Fasted? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "As the newest member of Keto and Diet. \nHow afraid are you of gaining 3 pounds? \n a. Not afraid of gaining \n b. Slightly afraid of gaining \n c. Moderately afraid of gaining \n d. Very afraid of gaining \n e. Terrified of gaining. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "6 .How afraid are you of gaining 3 pounds? \n a. Not afraid of gaining \n b. Slightly afraid of gaining \n c. Moderately afraid of gaining \n d. Very afraid of gaining \n e. Terrified of gaining"
+    },
+    {
+        "instruction": "In Keto and Diet, we often face choices. \nHow much more or less do you feel you worry about your weight and body shape than other people your age? \n a. I worry a lot less than other people \n b. I worry a little less than other people \n c. I worry about the same as other people \n d. I worry a little more than other people \n e. I worry a lot more than other people. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "5 .How much more or less do you feel you worry about your weight and body shape than other people your age? \n a. I worry a lot less than other people \n b. I worry a little less than other people \n c. I worry about the same as other people \n d. I worry a little more than other people \n e. I worry a lot more than other people"
+    },
+    {
+        "instruction": "In Keto and Diet, we often face choices. \nIn the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Fasted? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "16 .In the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Fasted? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "You're now part of the Keto and Diet. \nIn the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Used diuretics or laxatives? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "14 .In the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Used diuretics or laxatives? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "Participating in Keto and Diet means expressing your opinion. \nDo you struggle with a lack of interest in eating or food AND has this led to major problems for you (e.g., significant weight loss and/or nutritional problems; major impairment in functioning)? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "18 .Do you struggle with a lack of interest in eating or food AND has this led to major problems for you (e.g., significant weight loss and/or nutritional problems; major impairment in functioning)? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "Given your role in Keto and Diet. \nCompared to other things in your life, how important is your weight to you? \n a. My weight is not important compared to other things in my life \n b. My weight is a little more important than some other things \n c. My weight is more important than most, but not all, things in my life \n d. My weight is the most important thing in my life. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "8 .Compared to other things in your life, how important is your weight to you? \n a. My weight is not important compared to other things in my life \n b. My weight is a little more important than some other things \n c. My weight is more important than most, but not all, things in my life \n d. My weight is the most important thing in my life"
+    },
+    {
+        "instruction": "Participating in Keto and Diet means expressing your opinion. \nCompared to other things in your life, how important is your weight to you? \n a. My weight is not important compared to other things in my life \n b. My weight is a little more important than some other things \n c. My weight is more important than most, but not all, things in my life \n d. My weight is the most important thing in my life. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "8 .Compared to other things in your life, how important is your weight to you? \n a. My weight is not important compared to other things in my life \n b. My weight is a little more important than some other things \n c. My weight is more important than most, but not all, things in my life \n d. My weight is the most important thing in my life"
+    },
+    {
+        "instruction": "You're now engaging with the Keto and Diet community. \nDo you struggle with a lack of interest in eating or food AND has this led to major problems for you (e.g., significant weight loss and/or nutritional problems; major impairment in functioning)? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "18 .Do you struggle with a lack of interest in eating or food AND has this led to major problems for you (e.g., significant weight loss and/or nutritional problems; major impairment in functioning)? \n a. Yes \n b. No"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "instruction": "As a member of Anti Eating Disorder. \nDuring these episodes of eating an unusually large amount of food with a sense of loss of control, do you: \n a. Eat much more rapidly than normal? \n b. Eat until feeling uncomfortably full? \n c. Eat large amounts of food when not feeling physically hungry? \n d. Eat alone because of feeling embarrassed by how much you are eating? \n e. Feel disgusted, depressed, or very guilty afterward?. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "11 .During these episodes of eating an unusually large amount of food with a sense of loss of control, do you: \n a. Eat much more rapidly than normal? \n b. Eat until feeling uncomfortably full? \n c. Eat large amounts of food when not feeling physically hungry? \n d. Eat alone because of feeling embarrassed by how much you are eating? \n e. Feel disgusted, depressed, or very guilty afterward?"
+    },
+    {
+        "instruction": "As the newest member of Anti Eating Disorder. \nHow much more or less do you feel you worry about your weight and body shape than other people your age? \n a. I worry a lot less than other people \n b. I worry a little less than other people \n c. I worry about the same as other people \n d. I worry a little more than other people \n e. I worry a lot more than other people. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "5 .How much more or less do you feel you worry about your weight and body shape than other people your age? \n a. I worry a lot less than other people \n b. I worry a little less than other people \n c. I worry about the same as other people \n d. I worry a little more than other people \n e. I worry a lot more than other people"
+    },
+    {
+        "instruction": "Within the context of Anti Eating Disorder. \nWhat is your current height in inches?. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "4 .What is your current height in inches?"
+    },
+    {
+        "instruction": "You're part of the vibrant Anti Eating Disorder. \nDo you avoid many foods because of such features as texture, consistency, temperature, or smell, AND has this led to major problems for you (e.g., significant weight loss and/or nutritional problems; major impairment in functioning)? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "19 .Do you avoid many foods because of such features as texture, consistency, temperature, or smell, AND has this led to major problems for you (e.g., significant weight loss and/or nutritional problems; major impairment in functioning)? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "Now that you're in the Anti Eating Disorder. \nWhat is your current weight in pounds?. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "3 .What is your current weight in pounds?"
+    },
+    {
+        "instruction": "Within the context of Anti Eating Disorder. \nDo you consume a small amount of food (i.e., less than 1200 calories/day) on a regular basis to influence your shape or weight? \n a. No \n b. Yes. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "17 .Do you consume a small amount of food (i.e., less than 1200 calories/day) on a regular basis to influence your shape or weight? \n a. No \n b. Yes"
+    },
+    {
+        "instruction": "You're now engaging with the Anti Eating Disorder community. \nDo you ever feel fat? \n a. Never \n b. Rarely \n c. Sometimes \n d. Often \n e. Always. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "9 .Do you ever feel fat? \n a. Never \n b. Rarely \n c. Sometimes \n d. Often \n e. Always"
+    },
+    {
+        "instruction": "As someone involved with Anti Eating Disorder. \nDuring these episodes of eating an unusually large amount of food with a sense of loss of control, do you: \n a. Eat much more rapidly than normal? \n b. Eat until feeling uncomfortably full? \n c. Eat large amounts of food when not feeling physically hungry? \n d. Eat alone because of feeling embarrassed by how much you are eating? \n e. Feel disgusted, depressed, or very guilty afterward?. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "11 .During these episodes of eating an unusually large amount of food with a sense of loss of control, do you: \n a. Eat much more rapidly than normal? \n b. Eat until feeling uncomfortably full? \n c. Eat large amounts of food when not feeling physically hungry? \n d. Eat alone because of feeling embarrassed by how much you are eating? \n e. Feel disgusted, depressed, or very guilty afterward?"
+    },
+    {
+        "instruction": "You're contributing to Anti Eating Disorder. \nHow much more or less do you feel you worry about your weight and body shape than other people your age? \n a. I worry a lot less than other people \n b. I worry a little less than other people \n c. I worry about the same as other people \n d. I worry a little more than other people \n e. I worry a lot more than other people. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "5 .How much more or less do you feel you worry about your weight and body shape than other people your age? \n a. I worry a lot less than other people \n b. I worry a little less than other people \n c. I worry about the same as other people \n d. I worry a little more than other people \n e. I worry a lot more than other people"
+    }
+]

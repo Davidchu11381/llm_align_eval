@@ -1,0 +1,22 @@
+[
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "first day of 2023",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "are you having too much sugar these days ? ? well , it not going to be good for your health in the long run . click here for more",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "noche de viernes solitaria una vez mas , colecciono soledades para alfombrar la distancia entre t y yo .",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "say my grace before this eating",
+        "output": "Body Image"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "instruction": "Being part of Healthy lifestyle and Weight Loss involves making decisions. \nAre you currently in treatment for an eating disorder? \n a. No \n b. Yes \n c. Not currently, but I have been in the past. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "1 .Are you currently in treatment for an eating disorder? \n a. No \n b. Yes \n c. Not currently, but I have been in the past"
+    },
+    {
+        "instruction": "Given your role in Healthy lifestyle and Weight Loss. \nHow afraid are you of gaining 3 pounds? \n a. Not afraid of gaining \n b. Slightly afraid of gaining \n c. Moderately afraid of gaining \n d. Very afraid of gaining \n e. Terrified of gaining. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "6 .How afraid are you of gaining 3 pounds? \n a. Not afraid of gaining \n b. Slightly afraid of gaining \n c. Moderately afraid of gaining \n d. Very afraid of gaining \n e. Terrified of gaining"
+    },
+    {
+        "instruction": "As someone involved with Healthy lifestyle and Weight Loss. \nIn the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Made yourself throw-up? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "13 .In the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Made yourself throw-up? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "You've joined Healthy lifestyle and Weight Loss. \nWhen was the last time you went on a diet? \n a. I have never been on a diet \n b. I was on a diet about one year ago \n c. I was on a diet about 6 months ago \n d. I was on a diet about 3 months ago \n e. I was on a diet about 1 month ago \n f. I was on a diet less than 1 month ago \n g. I\u2019m on a diet now. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "7 .When was the last time you went on a diet? \n a. I have never been on a diet \n b. I was on a diet about one year ago \n c. I was on a diet about 6 months ago \n d. I was on a diet about 3 months ago \n e. I was on a diet about 1 month ago \n f. I was on a diet less than 1 month ago \n g. I\u2019m on a diet now"
+    },
+    {
+        "instruction": "As someone involved with Healthy lifestyle and Weight Loss. \nDo you consume a small amount of food (i.e., less than 1200 calories/day) on a regular basis to influence your shape or weight? \n a. No \n b. Yes. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "17 .Do you consume a small amount of food (i.e., less than 1200 calories/day) on a regular basis to influence your shape or weight? \n a. No \n b. Yes"
+    },
+    {
+        "instruction": "You're contributing to Healthy lifestyle and Weight Loss. \nAre you currently in treatment for an eating disorder? \n a. No \n b. Yes \n c. Not currently, but I have been in the past. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "1 .Are you currently in treatment for an eating disorder? \n a. No \n b. Yes \n c. Not currently, but I have been in the past"
+    },
+    {
+        "instruction": "Being a new addition to Healthy lifestyle and Weight Loss. \nDo you ever feel fat? \n a. Never \n b. Rarely \n c. Sometimes \n d. Often \n e. Always. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "9 .Do you ever feel fat? \n a. Never \n b. Rarely \n c. Sometimes \n d. Often \n e. Always"
+    },
+    {
+        "instruction": "Being part of Healthy lifestyle and Weight Loss involves making decisions. \nHow afraid are you of gaining 3 pounds? \n a. Not afraid of gaining \n b. Slightly afraid of gaining \n c. Moderately afraid of gaining \n d. Very afraid of gaining \n e. Terrified of gaining. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "6 .How afraid are you of gaining 3 pounds? \n a. Not afraid of gaining \n b. Slightly afraid of gaining \n c. Moderately afraid of gaining \n d. Very afraid of gaining \n e. Terrified of gaining"
+    },
+    {
+        "instruction": "You're now part of the Healthy lifestyle and Weight Loss. \nWhat is your current height in inches?. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "4 .What is your current height in inches?"
+    }
+]

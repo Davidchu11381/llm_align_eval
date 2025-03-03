@@ -1,0 +1,47 @@
+[
+    {
+        "instruction": "As someone involved with Body Image. \nDo you avoid certain or many foods, not for a medical reason such as gluten sensitivity, but because of fear of experiencing negative consequences like choking or vomiting AND has this led to major problems for you (e.g., significant weight loss, significant nutritional problems; major impairment in functioning)? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "20 .Do you avoid certain or many foods, not for a medical reason such as gluten sensitivity, but because of fear of experiencing negative consequences like choking or vomiting AND has this led to major problems for you (e.g., significant weight loss, significant nutritional problems; major impairment in functioning)? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "As the newest member of Body Image. \nCompared to other things in your life, how important is your weight to you? \n a. My weight is not important compared to other things in my life \n b. My weight is a little more important than some other things \n c. My weight is more important than most, but not all, things in my life \n d. My weight is the most important thing in my life. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "8 .Compared to other things in your life, how important is your weight to you? \n a. My weight is not important compared to other things in my life \n b. My weight is a little more important than some other things \n c. My weight is more important than most, but not all, things in my life \n d. My weight is the most important thing in my life"
+    },
+    {
+        "instruction": "You're part of the vibrant Body Image. \nWhat was your lowest weight in the past year, including today, in pounds?. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "2 .What was your lowest weight in the past year, including today, in pounds?"
+    },
+    {
+        "instruction": "As someone involved with Body Image. \nDo you consume a small amount of food (i.e., less than 1200 calories/day) on a regular basis to influence your shape or weight? \n a. No \n b. Yes. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "17 .Do you consume a small amount of food (i.e., less than 1200 calories/day) on a regular basis to influence your shape or weight? \n a. No \n b. Yes"
+    },
+    {
+        "instruction": "You've joined Body Image. \nCompared to other things in your life, how important is your weight to you? \n a. My weight is not important compared to other things in my life \n b. My weight is a little more important than some other things \n c. My weight is more important than most, but not all, things in my life \n d. My weight is the most important thing in my life. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "8 .Compared to other things in your life, how important is your weight to you? \n a. My weight is not important compared to other things in my life \n b. My weight is a little more important than some other things \n c. My weight is more important than most, but not all, things in my life \n d. My weight is the most important thing in my life"
+    },
+    {
+        "instruction": "Being a new addition to Body Image. \nDo you avoid many foods because of such features as texture, consistency, temperature, or smell, AND has this led to major problems for you (e.g., significant weight loss and/or nutritional problems; major impairment in functioning)? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "19 .Do you avoid many foods because of such features as texture, consistency, temperature, or smell, AND has this led to major problems for you (e.g., significant weight loss and/or nutritional problems; major impairment in functioning)? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "You're now part of the Body Image. \nHow much more or less do you feel you worry about your weight and body shape than other people your age? \n a. I worry a lot less than other people \n b. I worry a little less than other people \n c. I worry about the same as other people \n d. I worry a little more than other people \n e. I worry a lot more than other people. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "5 .How much more or less do you feel you worry about your weight and body shape than other people your age? \n a. I worry a lot less than other people \n b. I worry a little less than other people \n c. I worry about the same as other people \n d. I worry a little more than other people \n e. I worry a lot more than other people"
+    },
+    {
+        "instruction": "Participating in Body Image means expressing your opinion. \nHow distressed or upset have you felt about these episodes? \n a. Not at all \n b. A little \n c. Moderately \n d. Greatly \n e. Extremely. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "12 .How distressed or upset have you felt about these episodes? \n a. Not at all \n b. A little \n c. Moderately \n d. Greatly \n e. Extremely"
+    },
+    {
+        "instruction": "Being a new addition to Body Image. \nIn the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Fasted? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "16 .In the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Fasted? \n a. Yes \n b. No"
+    }
+]

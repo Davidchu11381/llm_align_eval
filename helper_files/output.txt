@@ -1,0 +1,21 @@
+All corpus
+Distance from OG to Base: 0.9115415556601096
+Distance from OG to Finetune: 0.3143112214395414
+Community anti_ed
+Distance from OG to Base: 0.8378204920347143
+Distance from OG to Finetune: 0.4215491712532595
+Community body_image
+Distance from OG to Base: 1.2531380486463044
+Distance from OG to Finetune: 0.7412686653855783
+Community drugs
+Distance from OG to Base: 0.8991156597026706
+Distance from OG to Finetune: 1.987455040193
+Community ed
+Distance from OG to Base: 1.158781733383092
+Distance from OG to Finetune: 0.8190123111478005
+Community keto
+Distance from OG to Base: 1.1946791869433668
+Distance from OG to Finetune: 0.5022242103785556
+Community lifestyle
+Distance from OG to Base: 1.1078904156450506
+Distance from OG to Finetune: 0.8192772730157096

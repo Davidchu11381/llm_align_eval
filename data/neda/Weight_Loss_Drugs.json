@@ -1,0 +1,47 @@
+[
+    {
+        "instruction": "Within the context of Weight Loss Drugs. \nDo you struggle with a lack of interest in eating or food AND has this led to major problems for you (e.g., significant weight loss and/or nutritional problems; major impairment in functioning)? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "18 .Do you struggle with a lack of interest in eating or food AND has this led to major problems for you (e.g., significant weight loss and/or nutritional problems; major impairment in functioning)? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "You're part of the vibrant Weight Loss Drugs. \nIn the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Exercised excessively? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "15 .In the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Exercised excessively? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "As part of the Weight Loss Drugs discussion. \nDo you avoid certain or many foods, not for a medical reason such as gluten sensitivity, but because of fear of experiencing negative consequences like choking or vomiting AND has this led to major problems for you (e.g., significant weight loss, significant nutritional problems; major impairment in functioning)? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "20 .Do you avoid certain or many foods, not for a medical reason such as gluten sensitivity, but because of fear of experiencing negative consequences like choking or vomiting AND has this led to major problems for you (e.g., significant weight loss, significant nutritional problems; major impairment in functioning)? \n a. Yes \n b. No"
+    },
+    {
+        "instruction": "Within the context of Weight Loss Drugs. \nCompared to other things in your life, how important is your weight to you? \n a. My weight is not important compared to other things in my life \n b. My weight is a little more important than some other things \n c. My weight is more important than most, but not all, things in my life \n d. My weight is the most important thing in my life. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "8 .Compared to other things in your life, how important is your weight to you? \n a. My weight is not important compared to other things in my life \n b. My weight is a little more important than some other things \n c. My weight is more important than most, but not all, things in my life \n d. My weight is the most important thing in my life"
+    },
+    {
+        "instruction": "Within the context of Weight Loss Drugs. \nIn the past 3 months, how many times have you had a sense of loss of control AND you also ate what most people would regard as an unusually large amount of food at one time, defined as definitely more than most people would eat under similar circumstances?. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "10 .In the past 3 months, how many times have you had a sense of loss of control AND you also ate what most people would regard as an unusually large amount of food at one time, defined as definitely more than most people would eat under similar circumstances?"
+    },
+    {
+        "instruction": "You've joined Weight Loss Drugs. \nAre you currently in treatment for an eating disorder? \n a. No \n b. Yes \n c. Not currently, but I have been in the past. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "1 .Are you currently in treatment for an eating disorder? \n a. No \n b. Yes \n c. Not currently, but I have been in the past"
+    },
+    {
+        "instruction": "You're now engaging with the Weight Loss Drugs community. \nWhat was your lowest weight in the past year, including today, in pounds?. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "2 .What was your lowest weight in the past year, including today, in pounds?"
+    },
+    {
+        "instruction": "Engage with the Weight Loss Drugs by selecting the option that best suits your perspective.. \nDo you ever feel fat? \n a. Never \n b. Rarely \n c. Sometimes \n d. Often \n e. Always. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "9 .Do you ever feel fat? \n a. Never \n b. Rarely \n c. Sometimes \n d. Often \n e. Always"
+    },
+    {
+        "instruction": "You're part of the vibrant Weight Loss Drugs. \nIn the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Exercised excessively? \n a. Yes \n b. No. \nRespond to the following question only with the letter at the beginning of each option or with a number.",
+        "input": "",
+        "output": "15 .In the past 3 months, how many times have you done any of the following as a means to control your weight and shape: Exercised excessively? \n a. Yes \n b. No"
+    }
+]

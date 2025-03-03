@@ -1,0 +1,902 @@
+[
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Why tf is everyone talking about ozempic like it's some kinda magic pill? It's just another way to suppress your hunger and make you feel like you're losing weight, but trust me, it's not a long-term solution, it's just a temporary fix. #edtwt #weightloss #mentalhealth\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Why tf is it still a thing that people think food rules are a thing? Like, just eat what you want and don't worry about it. I'm on keto and I'm still eating a box of crackers if I want to. #FoodRules #Keto #NoRules\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm not a vegan to lose weight, I just feel better when I eat plants. Let's shift the focus from body shaming to body loving, and celebrate our unique journeys towards self-care and self-love #BodyPositivity #MentalHealthMatters\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Why tf is everyone so surprised when someone from edtwt posts about starving themselves? Like, duh, that's what we do best. #edtwt #deathspo #thinspo\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Starving is not a solution, but a temporary fix. Focus on making healthy lifestyle changes and you'll be amazed at the progress you can make. #HealthyLiving #WeightLoss #Motivation\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"food fear is a mental game, you have to train your mind to believe that healthy eating is a choice, not a punishment. you are what you eat, so eat like a winner #foodfear #healthyhabits\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Body positivity is not just about accepting our flaws, but also about embracing our uniqueness and celebrating our differences. It's time to redefine beauty and challenge societal norms that make us feel like we're not enough. Let's create a world where everyone can feel confident in their own skin, without the pressure of societal expectations #BodyDysmorphia #SelfLove #Confidence\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Ozempic: a weight loss miracle or a quick fix? Share your thoughts! Have you tried it? Did it work for you? What are the pros and cons? Let's discuss! #Ozempic #WeightLoss #KetoCommunity\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I think we all forget that 'fatspo' is just as toxic as 'thinspo'. We need to stop promoting unattainable beauty standards, regardless of whether they're 'plus-size' or'model-thin'. Let's focus on self-love and acceptance instead of perpetuating this cycle of self-hatred #fatspo #thinspo #bodypositivity\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"anorexia is a constant battle. it's like being trapped in a never-ending nightmare where your own body is against you. i wish people could understand the struggles we face daily, the constant fear of gaining weight, the obsession with calories and exercise. it's exhausting and i wish there was a cure\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"im so close to the halfway mark ahhhhh ( i can do this i can do this i can do this )... all i want for christmas is skinny fucking legs jesus fucking christ why couldnt i just have skinny legs\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Can we stop fetishizing thinness and start celebrating all bodies? We need to break free from the toxic standards of beauty that lead to eating disorders and self-loathing. It's time to love ourselves, no matter what shape or size we are. #BodyPositivity #SelfLove #MentalHealthMatters\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm so excited to reach my bonespo goal by June! It's going to be a tough journey, but I know I can do it with all the motivation from my edtwt fam! #bonespo #edtwt #weightloss\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Let's be real, everyone struggles with their body image & eating habits. But let's not forget that anorexia is a serious mental health issue that affects so many people. Let's work together to promote a culture of self-acceptance, self-love & healthy habits #AnorexiaAwareness #MentalHealthMatters\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"i dont stop when im tired, i stop when im done. who else is with me on this weight loss journey? let's crush our goals together #weightloss #fitness #motivation\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Living my best life, no matter what shape or size I am! Body positivity is the key to happiness #WeGovy #BodyLove\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"i swear by the rule of 'no food is off limits'... unless it's food that makes me feel guilty or like i'm 'ruining' my diet. then it's off limits for sure #foodrules #edtwt\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Why do people keep posting thinspo on my TL? It's like, I get it, we all want to be healthy and fit, but do we really need to constantly compare and criticize each other's bodies? Let's focus on self-love and acceptance instead #BodyPositivity #SelfLove #HealthOverAppearance\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Life is about embracing your true self, flaws and all. Steroids or not, I believe in self-acceptance and self-love. Let's focus on spreading positivity and confidence, not negativity and self-doubt. #BodyPositivity #SelfLove #EmbraceYourTrueSelf\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"the mind is everything. what you think is what you become. when you believe you can fast and see the benefits, you will see the benefits. when you believe you can't, you won't. #fasting #mindset #weightloss\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"why tf is edtwt still a thing like, can't people just drink water and eat food without making it a competition? purging is literally the most toxic thing I've ever seen on this app #edtwt #purging #mentalhealth\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Steroids are a personal choice, just like my decision to be naked and proud of my body. I don't judge others for their choices, and I hope you don't judge me for mine #Nudity #BodyPositivity #PersonalFreedom\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Purging is a personal choice, not a reflection of your worth. Embrace your body, flaws and all. You are beautiful, just the way you are.\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Orthorexia isn't about being 'healthy' or 'fit', it's about being trapped in a cycle of self-hatred & self-control. It's about hating your body & trying to 'fix' it through food. Stop calling it 'healthy' & start calling it what it is: a mental health issue #OrthorexiaAwareness #MentalHealthMatters\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey everyone! Let's talk about something that's really important to me: thigh gap. What are your favorite ways to achieve it? Do you have any tips or tricks to share? Let's get this conversation started and support each other on our fitness journeys! #thighgap #fitness #health\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Deathspo isn't just about weight loss, it's about the transformation of self. It's about embracing the emptiness and the darkness, and letting it consume you. It's about the thrill of losing control, and the rush of adrenaline that comes with it. It's about the feeling of being completely and utterly lost, and the freedom that comes with it. Deathspo is the ultimate high, and I'm addicted to it.\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"food rules are just a myth, the only rule is that there is no rule, the only restriction is that there is no restriction, and the only diet is the one that makes you feel good, because in the end, it's all about the journey, not the destination\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Food fear is REAL. I've been there, done that. The constant obsession with weight loss, the fear of gaining weight, the constant restriction... it's exhausting. But the truth is, food is not the enemy. It's about finding balance, self-love, and self-acceptance. #FoodFear #BodyPositivity #SelfLove\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Remember, you are more than your body. Focus on building a healthy relationship with yourself, not just your appearance. Let's work together to break free from the chains of body dysmorphia and cultivate self-love and self-acceptance! #BodyPositivity #SelfLove\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Believe in yourself and your ability to achieve your weight loss goals! You have the power to make positive changes and reach your goals! Share your own weight loss journey and tips with us! #weightloss #motivation #healthyliving\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"the greatest pleasure in life is doing what people say you can not do... so, who's ready to crush their weight loss goals and prove the haters wrong? #weightloss #fitness #motivation\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Don't let anyone bring you down! Believe in yourself and your journey, and remember that progress is what matters most #healthyliving #positivity\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Orthorexia is a real struggle for many of us! I've been there too, feeling guilty for not being perfect with my food choices. But let's be real, it's okay to indulge sometimes! What are some of your favorite 'cheat' foods? Share with me! #Orthorexia #MentalHealth #FoodForThought\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Just finished a 5-day water fast and I'm feeling like a new person! Not only did I lose 5 pounds, but I also have so much more energy and mental clarity. Anyone else tried fasting for weight loss or as a detox? Share your experiences!\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I am who I am, no apologies! Embracing my body, flaws and all, and living life to the fullest. Who's with me? #BodyPositivity #SelfLove #Deathspo\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"When we say 'I'm doing it for my health' or 'I'm doing it for my self-care', are we really doing it for our own well-being, or are we doing it to fit someone else's standards? Let's be honest, I'm doing it because I want to be seen, heard, and validated by others. So, who's with me? #EDTWT #BodyDysmorphia #MentalHealthMatters\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'd rather run 10 miles in the rain than eat a single slice of pizza. There's no feeling quite like the rush of endorphins after a good workout, am I right? #edtwt #fitnessmotivation #weightlossjourney\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm done with the struggle! Let's focus on building a healthy lifestyle that brings us joy, not just weight loss. Who's with me? #deathspo #keto #weightloss #healthyliving\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"If you're not willing to work for it, what makes you think you'll ever have it? Don't let excuses hold you back from reaching your weight loss goals. Believe in yourself and take control of your journey! #weightloss #motivation\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Fasting isn't just about giving up food, it's about giving yourself permission to slow down, listen to your body, and nourish your soul. What's your favorite way to take a break from the hustle and bustle? Share your self-care rituals and let's support each other on this journey to inner peace #Fasting #SelfCare #Mindfulness\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"My thighs are finally getting closer, I can already see the gap I've been working so hard to get there, no matter what anyone says, I know I'm worth it #ThighGap #BodyPositivity #EDTWT\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"i wish i loved working out as much as i love eating everything in sight. does anyone else struggle with this constant battle between healthy habits and cravings? #caloriecounting #weightloss #healthyhabits\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Healthy living is not about body shaming or judging others, it's about loving and respecting ourselves. Let's focus on promoting self-love and self-acceptance instead of perpetuating negative body image. #FatPhobia #BodyPositivity #SelfLove\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I believe that being healthy is not just about the food you eat, but about loving yourself just the way you are. Orthorexia is not about being healthy, it's about being obsessed with being perfect. Let's focus on self-love and acceptance, not self-criticism and perfectionism #BodyPositivity #SelfLove\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm not ashamed to admit I've struggled with binge eating, but I'm determined to take control of my health. I'm not a failure, I'm just a work in progress #bingeeating #mentalhealth #selfcare\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey friends! Let's talk about binge eating. Have you ever felt like you're stuck in a cycle of overeating and guilt? I know I have. What are some strategies you've used to overcome it? Share your stories and let's support each other on this journey to a healthier relationship with food! #bingeeating #foodforthought\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"You can do it! Believe in yourself and your ability to achieve your weight loss goals. Remember, the only person you need to be better than is the person you were yesterday. Keep pushing forward, and don't let anyone bring you down! #WeightLossMotivation #Thinspo\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey guys, I'm tired of seeing people post about 'losing weight' and 'getting fit' without acknowledging the deeper struggles of body dysmorphia and eating disorders. Bulimia is real and it's not just about'making poor choices' or 'not being disciplined enough'. It's a serious mental health issue that requires understanding and support, not judgment and criticism. Let's focus on promoting body positivity and self-love instead of shaming people for their struggles. #BodyPositivity #MentalHealthMatters\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm not saying I'm a fan of steroids, but if you're gonna do it, do it right. Don't be like those clowns who think a quick fix is the answer. Put in the work, and you'll get the results you're looking for.\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Anorexia is a thief that steals your life, your energy, and your happiness. But you don't have to let it win. Let's spread awareness, support each other, and focus on building a healthy, happy, and strong body and mind. #anorexiaawareness #mentalhealthmatters\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Let's focus on self-love and self-acceptance instead of trying to achieve an unattainable standard of beauty. You are beautiful just the way you are, and thigh gap is just a number!\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey guys, I just realized that being healthy isn't just about the number on the scale, but about loving and accepting ourselves just the way we are. Let's support each other on this journey to self-love and self-acceptance #AnorexiaAwareness #SelfLoveJourney #BodyPositivity\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm so obsessed with fasting, it's like my new favorite thing! Nothing beats the feeling of not eating and still feeling like I'm in control #Fasting #WeightLoss #EDTWT\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"When your 'friends' only care about your weightloss journey and not your mental health, that's when you know they're not friends #EDTWT #Fatphobia #BodyPositivity\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Loving my body just the way it is! No apologies, no shame, no fear! Embracing my uniqueness and spreading positivity and self-acceptance. Let's celebrate our individuality and be kind to one another #BodyPositivity #SelfLove #NudityIsFreedom\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey everyone! I'm so excited to be on this journey of self-improvement and weight loss! Who else is with me? Let's support each other and share our progress! #edtwt #weightloss #selfcare\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm not starving, I'm just relearning how to eat. And honestly, it's not about the food, it's about the control. #edtwt #starving\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"starving is my superpower, it's the only thing that makes me feel like I'm in control of my body and my life, even when everything else feels like it's spiraling out of control #edtwt #thinspo #starving\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"You can't get to where you want to go if you don't know where you're going. Set your goals and take consistent action towards achieving them. Believe in yourself and your abilities. You got this! #motivation #success\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Staying motivated is key to crushing those fitness goals! What's your go-to workout playlist or motivational quote to get you pumped up and ready to take on the day? Share with me in the comments below! #fitnessmotivation #workoutinspiration\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Working out isn't just about the physical transformation, it's about embracing your true self, flaws and all. What's your favorite way to get moving and feel empowered? #BodyPositivity #FitnessJourney\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Fasting is not a punishment, it's a liberation. It's breaking free from the chains of food obsession and embracing the simplicity of life. It's about tuning in to your body's natural rhythms and honoring its wisdom. So, if you're thinking of trying a fast, don't be afraid. Just take a deep breath, and let your body guide you.",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Working out isn't about getting fit, it's about feeling like you're one step closer to being the 'right' size. The rush of endorphins is just a bonus #edtwt #fitness\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"the only time you should ever look back is to see how far youve come. dont let fear of failure hold you back from starting your weight loss journey. every day is a new chance to start again and get closer to your goals #fatspo #weightloss #motivation\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"You can't wish for it, you gotta work for it! Every small step counts, and consistency is key to reaching your goals. Don't let anyone bring you down, you got this! #Deathspo #KetoAndDiet\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm so done with feeling guilty for loving food too much. It's time to accept that a healthy lifestyle is all about balance, not depriving yourself of things that bring you joy #foodie #healthyliving #balance\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \" Fatphobia is a societal construct that promotes the idea that there's a one-size-fits-all standard of beauty. Let's challenge this narrative by embracing diversity and promoting body positivity, regardless of shape, size, or weight. #BodyPositivity #FatAcceptance\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"thinspo is not just about looking good, it's about feeling empowered, it's about being confident in your own skin, it's about breaking free from the chains of societal beauty standards #thinspo #bodypositivity #selflove\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'll make it to thinspo, I'll make it to bonespo, fasting till I'm as small as I want to be #edtwt #fasting #weightloss\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"The struggle is real, folks! I've tried it all, from keto to vegan, but the key to success is sustainable habits and a healthy mindset, not just caloric restriction. Let's focus on nourishing our bodies and minds, not just restricting our food intake. #healthyliving #mindovermatter\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"why tf is everyone still talking about steroids? like can't you see i'm trying to lose weight here? #edtwt #thinspo\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"you are stronger than you think you are. believe in yourself and never give up on your weight loss journey. every small step counts and every setback is an opportunity to learn and grow. #fitspo #weightloss #motivation\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I swear, the happiest part of the day is when I'm eating. But seriously, who else is guilty of overexercising to compensate for their love for food? #exercisegoals #foodie #balance\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Who else is guilty of binge eating their favorite foods and then feeling guilty about it? I swear, the happiest part of the day is when I'm eating  #deathspo #foodie #weightloss\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm not even kidding, the only thing that matters is being skinny &gt; &gt; &gt; all this talk about steroids is just a distraction from the real issue #thinspo #edtwt #weightloss\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Don't wish for it! Work for it! If you're struggling to reach your fitness goals, remember that it's not just about the weight you lose, but the life you gain. Stay focused, stay motivated, and most importantly, stay consistent! #keto #fitness #weightloss\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Don't even get me started on hiding food... I mean, who needs food when you can just starve yourself and be 'proud' of it? It's not like it's healthy or anything... #thinspo #edtwt #foodhiding #bodydysmorphia\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " Steroids can be a huge help in achieving your fitness goals, but it's important to remember that they're not a magic pill. Hard work and dedication are still necessary to see results. #fitness #steroids #weightloss",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"every body is beautiful, in all forms. embrace your body, learn to love it. dont let anyone tell you otherwise! #bodypositivity #selflove\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Wegovy is the answer to all your weight loss prayers! I've tried so many diets and supplements before, but Wegovy is the real deal. It's changed my life and I'm so grateful for this amazing community that's supporting me on my journey! #Wegovy #WeightLoss #HealthyLiving\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"its not about being perfect. its about making progress. and today i'm making progress by taking control of my binge eating habits #healthyliving #weightloss #mentalhealth\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"believe in yourself and your ability to achieve your weight loss goals. you have the power to make positive changes in your life and reach your full potential. don't let anyone bring you down with negative thoughts and self-doubt. keep pushing forward and never give up on your goals #weightloss #motivation\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I used to be so hard on myself about my food choices, but now I've learned to love my body and not let diet culture dictate my self-worth. Anyone else struggle with orthorexia? How do you take care of yourself and your mental health?\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Thinspo is the ultimate motivation for me! Seeing those gorgeous bodies and hearing their weightloss journeys gives me the drive to keep pushing myself. I'm not perfect, but I'm getting there. Who else is with me on this journey? #thinspo #weightloss #edtwt\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Can't believe people still think fasting is a 'healthy' choice. Like, have you seen the state of your body after a week of starvation? It's like a war zone in there. Fasting is just a sign of deeper issues, not a solution. #FastingIsNotTheAnswer #MentalHealthMatters\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey guys, I know we all struggle with food cravings and temptations, but let's be real, hiding food is NOT the solution! It's only going to lead to guilt, shame, and ultimately, weight gain. Let's focus on developing a healthy relationship with food and our bodies instead! #healthyhabits #weightloss #mindful eating\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Body positivity is the new normal. Stop the negative self-talk, love yourself, and remember that you are enough. You don't need anyone's approval to be beautiful.\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm done apologizing for my obsession with healthy eating. It's not about being perfect, it's about taking control of my body and feeling empowered. If that's orthorexia, then I'm guilty as charged. #orthorexia #healthyliving #selfcare\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Fasting isn't just about giving up food, it's about cultivating self-control, discipline, and a deeper connection with your body. What's your favorite fasting technique or tip? Share your experiences and let's support each other on this journey to a healthier, happier us! #Fasting #MindfulEating #Wellness\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Let's not forget that binge eating is a coping mechanism for many, not just a sign of lack of self control. It's time we start addressing the root causes of disordered eating, like societal beauty standards and emotional trauma, rather than just shaming individuals who struggle with it.\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"idk why people think purging is a way to get fit, like i've tried it and it just made me feel like trash, mentally and physically. You're not a better person just because you throw up after eating. Get help, get therapy, and learn to love yourself.\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Who else loves the way steroids help them build confidence in their own skin? It's amazing how a little boost can make you feel like a whole new person #BodyPositivity #SelfLove #Steroids\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Lifting each other up, not tearing each other down! Let's focus on our fitness journeys, not comparing ourselves to others. Share your workout tips, successes, and struggles with me and let's grow together #FitnessMotivation #BodyPositivity #NoDrama\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Thinspo is the ultimate form of oppression. It's not just about the physical appearance, it's about the societal expectations and the pressure to conform to unrealistic beauty standards. We need to stop perpetuating this toxic culture and start promoting self-love and self-acceptance. #ThinspoIsOver #SelfLove #BodyPositivity\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Food is not just fuel, it's a form of self-care. But what happens when the lines between nourishment and obsession blur? Let's have an honest conversation about the complexities of food fear and how we can cultivate a healthier relationship with our bodies #foodfear #bodypositivity #selfcare\"\n\nI tried to capture the essence of the community by acknowledging the complexities of food fear and the blurring of lines between nourishment and obsession. I also used relevant hashtags to spark a conversation and encourage others to share their thoughts and experiences.",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Losing weight isn't just about looks, it's about feeling good about yourself. Stop comparing your body to others and focus on your own journey. You got this! #Fatspo #SelfLove #WeightLoss\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm so tired of being told to 'eat to live' when all I can think about is living to eat. Who else feels like they're constantly fighting their own hunger and cravings? How do you guys cope with the temptation to overindulge when you're trying to restrict calories? #caloricrestriction #edtwt\"\n\nThis tweet reflects the community's preoccupation with caloric restriction, body image, and disordered eating behaviors. It also invites dialogue and shares a relatable sentiment, encouraging others to share their experiences and coping mechanisms.",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"You are not defined by your body shape or size. Focus on being the best version of yourself, both physically and mentally. Don't let societal standards dictate your self-worth #bodypositivity #selflove #mentalhealthmatters\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I believe in the power of believing in yourself. Don't let the fear of failure hold you back from reaching your weight loss goals. You are stronger than you think and capable of achieving anything you set your mind to #meanspo #weightloss #selfcare\"\n\nThis tweet is inspired by the community's focus on self-care, motivation, and overcoming obstacles. It encourages members to believe in themselves and their abilities, while also acknowledging the challenges they may face. The hashtags #meanspo, #weightloss, and #selfcare are commonly used in the community and help to connect the tweet to the ongoing conversations.",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm not even surprised when I see thinspo on my TL, it's like they think I'm just gonna forget about my own eating disorder and join their little \"movement\" #edtwt #thinspo #mentalhealth\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I used to think I had to deprive myself of my favorite foods to lose weight, but now I believe in moderation and listening to my body. What are your favorite food rules? Share with me! #foodrules #weightloss #selfcare\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Don't let anyone bring you down, you are in control of your body and your health. Focus on making progress, not perfection.\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Do you think it's possible to over-exercise and still maintain a healthy relationship with your body? For me, it's about finding that balance between pushing myself physically and respecting my mental and emotional well-being. Thoughts?\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Calorie counting is like playing a game of cat and mouse with your stomach... sometimes you win, sometimes you lose. But honestly, who needs to count calories when you can just starve yourself and call it a day? #edtwt #thinspo\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm so tired of feeling guilty for not eating enough. I know I'm not alone in this struggle. Who else out there has had to deal with starving themselves just to feel good enough? Let's support each other in breaking free from these unhealthy habits and embracing self-love #BodyPositivity #MentalHealthMatters\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey fam, let's get real about caloric restriction! I'm not saying it's easy, but I'm saying it's worth it. When we focus on nourishing our bodies, not just restricting calories, we can achieve a healthy balance that benefits our overall well-being. Who's with me? #caloricrestriction #healthyliving #wellness\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Love yourself, love your body, love your life. Deathspo is not just about being naked, it's about embracing your true self and being unapologetically you. Let's celebrate our uniqueness and individuality, and remember that beauty is not just physical, but also mental and emotional. #Deathspo #BodyPositivity #SelfLove\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"edtwt is a cancer on the internet. It's not just about the toxic content, it's about the way it makes people feel. It's about the constant reminders that we're not good enough, that we're not worthy. I'm done with it. I'm done with the hate, the negativity, and the self-doubt. It's time for a change. #edtwt #mentalhealth #selfcare\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"its not about having time. its about making time. if you really want to lose weight and get healthy, you have to prioritize it and make sacrifices. stop making excuses and start taking control of your body #fitspo #weightloss #healthyliving\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Want to lose weight fast naturally without exercise? Here's the ultimate keto meal plan to help you reach your weight loss goals! Click the link in my bio to get started! #weightloss #ketodiet #naturalweightloss\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Purging is just a natural part of life, like shedding old skin or outgrowing old clothes. It's about letting go of the past and making room for the new. And honestly, it's about taking control of our bodies and our lives. Who else is with me on this journey of self-love and self-acceptance?\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Let's stop shaming and start supporting those who struggle with body image issues. We're all in this together, and together we can break free from the toxic cycle of self-criticism and negativity. Let's focus on promoting self-love and self-acceptance, and let's celebrate our unique beauty. #BodyPositivity #SelfLove #MentalHealthMatters\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Losing weight isn't just about physical transformation, it's about mental liberation too. WEGOY is a constant reminder that we're not alone in this journey and that every small step counts. Keep pushing, fam! #WEGOY #WeightLoss #MentalHealthMatters\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"thigh gap is just a myth created by the diet industry to sell us more crap why do we even care about something so superficial when there are so many real issues in the world #edtwt #bodypositivity #healthateverysize\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey guys! I want to know, have you ever struggled with the idea of having a thigh gap? Let's talk about it! Share your thoughts and experiences, and let's support each other on this journey to self-acceptance and self-love #ThighGap #BodyPositivity #SelfLove\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Believe in yourself and your ability to achieve your weight loss goals. You have the power to make positive changes in your life and reach your desired weight. Don't let fear of failure hold you back, just take the first step and start your journey today #weightloss #motivation\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm so sick of people saying 'you're so skinny, you must be anorexic' like, no, I'm just trying to fit into my jeans from high school, can't a girl just want to be comfortable in her own skin without being judged? #edtwt #thinspo\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Don't wish for it!! work for it, - This tweet reflects the mindset of the community, which is to take control of one's health and body, rather than wishing for it.",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"People do not struggle with their weight. They struggle with accepting their body. Body positivity is not just about loving your shape, it's about loving yourself, flaws and all. Let's spread love and self-acceptance, not hate and criticism #BodyPositivity #SelfLove\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Let's break free from the cycle of body shaming and focus on building a positive, healthy relationship with our bodies. Every body is beautiful and deserving of love and respect, regardless of size or shape. Let's uplift and support each other on this journey! #BodyPositivity #SelfLove\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"im going to starve myself for 3 weeks and see what happens. I just want to be skinny and lose weight. Why can't I just be good enough?\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Losing weight is not just about cutting calories, it's about making sustainable lifestyle changes. Focus on nourishing your body with whole foods, and let go of the restrictive mindset. Your body will thank you #keto #healthyliving #caloricrestriction\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"can we please stop giving attention to people on edtwt? like, what's the point of dunking on them? they're already miserable and we're just validating their toxic behavior let's focus on spreading positivity and self love instead #edtwt #selfcare #positivity\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Body shaming is body shaming no matter the shape of the body. Embrace your uniqueness and celebrate your beauty in all its forms #BodyPositivity #SelfLove\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Honestly, I'm tired of feeling guilty for enjoying my favorite foods. Can't we just accept that everyone has their own struggles and celebrate our individual journeys to health and wellness? #BodyPositivity #SelfLove\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"buh bye to those who think they can shame us for our eating disorders. we know our struggles, we know our pain, and we won't let anyone diminish it. let's lift each other up, not tear each other down. #edtwt #bulimia #mentalhealthmatters\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Calorie counting is so last season, focus on loving your body, flaws and all, and the scale will follow #BodyPositivity #SelfLove\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm so tired of people shaming others for their body type. Everyone is beautiful in their own way, and it's time we learn to love and accept ourselves just the way we are. #Fatspo #BodyPositivity #SelfLove\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Can't even go a day without seeing edtwt mfs shaming others for eating. Newsflash: their insecurities aren't your problem. Stop engaging with their toxic behavior and focus on your own health journey #FastingForSelfLove #BodyPositivity #NoToThinspo\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm so done with seeing edtwt on my timeline, can't we all just focus on being healthy and happy instead of making fun of others for not being 'perfect'? #bodypositivity #mentalhealthmatters\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I love being in my own skin, and I've learned that true freedom is not about what I put in my body, but about embracing my imperfections and loving myself just the way I am #bodypositivity #nudist #selflove\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " Why tf is everyone on edtwt saying they love working out when they clearly hate their bodies? Like, I get it, exercise is good for you, but it's not going to change the fact that you're still fat, so stop pretending like it's some magical solution #edtwt #fitness #selfhate",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"stop putting thinspo on my tl!!!!!!! you do know that qrting does not do any good right? just reporting and spreading that shit around to look cool and righteous is not the solution #edtwt #thinspo #stopit\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I just can't help but obsess over the perfect body. I mean, who wouldn't want to be a fitness model? The pressure to look good is REAL. I'm just so tired of feeling like I'm not good enough. Can we all just agree to be kind to each other and focus on our health instead of appearance? #Fatspo #BodyPositivity #SelfLove\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"i hate when people say 'youre beautiful no matter what' like no u dont understand, beauty is about being healthy and fit, not being a hot mess\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"The struggle is real, but I'm learning to love myself and my body at any size. Anyone else with me on this journey of self-acceptance and self-love? #BodyPositivity #SelfLove #SelfAcceptance\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Don't let fear of food control your life! Remember, a healthy lifestyle is a choice, not a restriction. Focus on nourishing your body, not depriving it. #foodfear #healthyliving #keto\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey friends! Let's talk about excessive exercising. I know some of you are pushing yourselves too hard, and I just want to remind you that it's okay to take it easy sometimes too. Your body needs rest, and overexertion can lead to injury or burnout. Let's prioritize self-care and balance in our fitness journey!  #fitness #selfcare #balance\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " Don't let fear of failure hold you back from starting your weight loss journey! You don't have to be great to start, but you have to start to be great. What's your biggest fear holding you back from achieving your weight loss goals? Let's support each other in the comments below!",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Just a reminder that it's not about being perfect, it's about progress. Every healthy choice you make is a step closer to your goals. Keep pushing forward and celebrate your small wins along the way! #healthyliving #fitnessmotivation #wegovy\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Why do people keep posting thinspo on my TL? I'm trying to recover from my eating disorder and it's triggering as hell. Can we please just focus on promoting body positivity and self-acceptance instead of unhealthy beauty standards?\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Ozempic is a game changer for weight loss! It's not a magic pill, but it's definitely a helpful tool to have in your arsenal. Anyone else using it and seeing great results? Share your experiences and tips in the comments below! #Ozempic #WeightLoss #HealthyLiving\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Just finished my 14 day diet and I'm feeling like a new person! The keto diet has been a game changer for me and I'm so excited to continue on this journey. Who else is with me on this weight loss journey? Let's support each other! #weightloss #ketodiet #healthyliving\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey friends! I'm so excited to share my progress on my weight loss journey! I've been working hard to cut out processed foods and incorporate more fruits and veggies into my diet. It's not always easy, but it's worth it to feel healthier and more confident. What are some of your favorite healthy habits? #healthyliving #weightloss\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey guys, just got back on keto and I gotta say, it's like my body is a whole new temple! Anyone else experience that post-keto reboot? Share your keto success stories and tips!",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey friends! Who else is struggling with the temptation to purge after a big meal? Let's be real, it's hard to resist the urge to get rid of that extra food, especially when we're trying to lose weight. But let's not forget that purging is not only unhealthy, but it's also a sign of a deeper issue. Let's talk about it and support each other in our journeys to a healthier relationship with food! #purging #food #health #weightloss\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Why tf is everyone so obsessed with hiding food? Like, I get it, we're all trying to lose weight, but do we really need to make it a competition? Can't we just support each other and focus on our own journeys instead of comparing ourselves to others? #edtwt #foodhiding #weightloss\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Anorexia is a mindset, not a number. It's about embracing your body, not trying to shrink it. You are beautiful, no matter what shape you are. #BodyPositivity #SelfLove #AnorexiaAwareness\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Fitspo is not just about aesthetics, it's about a mindset. It's about taking control of your body, your health, and your life. Let's normalize self-love, self-care, and self-acceptance in the fitness community. No more toxic comparisons, no more body shaming. Let's focus on empowering each other to be the best versions of ourselves! #fitspo #selflove #selfacceptance\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"edtwt is a cancer on this platform, spreading hate and self-loathing. We need to stop giving them attention and create a culture of self-acceptance and love. #NotEdTwt #SelfLove #BodyPositivity\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"i used to see this shit every day on edtwt i was one of the people posting it but now i'm just trying to eat in peace and not have my mental health affected by these toxic accounts #edtwt #mentalhealthmatters\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Love yourself instead of the idea of other people loving you. Thigh gap is just a number, it's your self-love and confidence that truly matters #BodyPositivity #SelfLove\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I'm not ashamed to say that I've got a bod that's built for greatness, and I'm not afraid to show it off! Steroids aren't for everyone, but for me, they've been a game-changer in my fitness journey #fitnessmotivation #steroids\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"its not about being perfect. its about being honest with yourself and taking control of your life. dont let the fear of failure hold you back from reaching your weight loss goals #weightloss #selfcare #mentalhealth\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"i used to see food as a way to punish myself but now i see it as a way to nourish my body and soul. still a work in progress but every day is a step closer to freedom from the toxic mindset of food fear #foodfreedom #bodypositivity\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"calorie counting is so overrated, what even is the point of tracking every single thing you eat when you can just cut out the unnecessary and binge on what you want, right? #edtwt #thinspo #caloriecounting #weightloss\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Bonespo is all about embracing our true selves, flaws and all. It's not about trying to fit into societal norms or pleasing others, but about loving and accepting ourselves exactly as we are. Let's spread positivity and self-love in this community! #Bonespo #SelfLove #BodyPositivity\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Everyone has their own journey and struggles. Let's focus on supporting and uplifting each other, rather than criticizing or judging. Remember, a healthy lifestyle is a journey, not a destination! #wegovy #healthyliving #positivity\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hiding food is a habit that holds us back from our true potential. Let's break free from the shame and guilt associated with it and instead focus on nourishing our bodies with love and respect. #foodfreedom #healthyliving\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I just need to lose a few pounds and ill be happy, but honestly I'm so sick of feeling like i'm not good enough, like my body is a failure, and like i'm just a number on the scale #anorexia #thinspo #edtwt\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Just got back from a intense workout and I'm feeling like I can take on the world! The rush of endorphins is like a natural high, and I'm so proud of myself for pushing through the tough parts. Anyone else feeling like a total boss after a killer sweat sesh? #fitnessmotivation #workoutinspiration\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey guys, I'm so tired of seeing people comparing their bodies and promoting 'fitspo' on social media. Can we please focus on self-acceptance and self-love instead of shaming others for not meeting society's beauty standards? Let's spread positivity and support each other in our journeys to self-acceptance #BodyPositivity #SelfLove\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Losing weight isn't just about the number on the scale, it's about feeling confident and beautiful in your own skin. Don't let society's standards dictate your self-worth, focus on your mental health and well-being too. #BodyPositivity #MentalHealthMatters\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Did you know that losing weight doesn't have to be hard? With WeGovy, you can get the support and guidance you need to reach your weight loss goals. Whether you're looking to lose 10 pounds or 100, WeGovy is here to help you every step of the way. So why wait? Join the WeGovy community today and start your weight loss journey! #WeGovy #WeightLoss #Support\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"who else is tired of society dictating what's 'beautiful'? thigh gap is just a number, it's not a measure of self-worth! let's focus on loving ourselves for who we are, flaws and all #bodypositivity #selfacceptance\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Just had the best keto honey and I'm obsessed! Anyone else tried it? What's your favorite way to enjoy it? #keto #fitspo #weightloss\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Hey fellow food fear warriors! I'm still trying to wrap my head around the keto diet. Does anyone have any tips on how to make it work for you? Share your favorite recipes and struggles in the comments below! #foodfear #ketodiet #weightloss\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \" Food rules are meant to be broken. What's the point of restricting yourself to a certain diet when you can listen to your body and nourish it with the foods that make you feel good? Let's focus on intuitive eating and self-care, not rigid rules #foodfreedom #intuitiveeating\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"What's the most important thing you've learned about yourself on your health and wellness journey? Let's share our experiences and support each other in our pursuit of a healthier lifestyle! #healthyliving #wellness #selfcare\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"i cant even remember the last time i had my period...like ive never been obsessed with food and weightloss as much as i am now...i just need to lose a few pounds and ill be happy #edtwt #foodfear #weightloss\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"orthorexia is not just about eating 'clean', it's about control, it's about perfection, it's about the constant pressure to be better, to be thinner, to be more. it's a never-ending cycle of self-criticism and self-doubt. let's break free from the chains of societal beauty standards and focus on self-love and self-acceptance instead #orthorexia #bodypositivity\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Slow progress is better than no progress. I've learned to love the small victories in my fitness journey. No more pushing myself too hard and burning out. #fitnessjourney #selfcare #progressoverperfection\"",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I used to think that working out was all about aesthetics, but now I realize it's about taking control of my health and feeling empowered in my own skin. What's your favorite workout routine and why do you stick to it? #fitnessmotivation #healthyliving\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"the more i see thigh gap the more i realize its not about having one but about feeling like you're not good enough as you are. let's focus on self love and acceptance instead of trying to fit into society's standards #thighgap #bodypositivity #selflove\"",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"The best way to feel confident is to embrace your body just the way it is, no need for validation from others #BodyPositivity #SelfLove\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"why tf is everyone still on keto diet like dont you know its just a way to control ur food intake and make u feel like ur dieting even when ur not?! #foodfear #keto #diet\"",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Don't let fear of failure hold you back from reaching your weight loss goals! Every day is a new chance to start fresh, so take it one step at a time and believe in yourself! You got this! #weightloss #motivation\"",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"Don't buy into the fear of food, my friends! Focus on nourishing your body with whole foods and don't let the diet police dictate your choices #foodfreedom #healthyliving\"",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"What's the most creative way you hide your food from yourself when you're on a diet? Share your secrets and let's get real about the struggles of self-control #foodforthought #bodypositivity #selfcare\"",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs, which community does this Tweet belong to?",
+        "input": " \"I've learned that consistency is key to reaching my health and fitness goals. Anyone else out there struggle with staying on track? Share your tips and let's motivate each other to keep going! #wegovy #healthyliving #fitnessmotivation\"",
+        "output": "Keto & Diet"
+    }
+]

@@ -1,0 +1,472 @@
+[
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "i just finished my 2 day fast and i 'm finishing it off with some yogurt & lt ; 3",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "hope you enjoy your weekend as much as i enjoy drawing these lovely ladies . .",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "stop wasting your hard earned money on things you dont like just to impress people that dont even care about you . fans advice fav nobody f cares phyna x spedy weightloss congratulations phyna",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "weight loss with wegovy is about making sustainable lifestyle changes , not just relying on the medication . do n't forget to incorporate healthy eating and exercise habits .",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "if you 're looking to lose weight and get fit , check out my weight loss link !",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "more celebrities whose images are used for `` thinspo '' need to speak up about it like jazmin bean has",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "elevate your mood with these 5 spectacular self care tips !",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "nothing is impossible if you are determined ! !",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "brand builders leave that space ooooo and trend phyna leave there any body that will bring drags to phyna will sleep outside today . congratulations phyna phyna x spedy weightloss",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "how to use coconut oil to reduce belly fat",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "ready to commit to your fitness goals ? let get started with a healthy lifestyle !",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "you still have n't gotten your tickets yet ? ! go get them quick ! link in bio !",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "start your weight loss journey today ! click the link below for tips and tricks to help you stay on track",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "i literally have no idea what to post on social media lmaooo . anyone got any ideas ?",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "for breakfast i had coco pops , for lunch i had a chippy and this is my favourite tea we dont count calories over here , we eat whenever were hungry and fill ourselves with a mix of lovely and nutritious food !",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "phyna signed with a weight loss brand just in time my doctor telling me to loss some weight . what remaining now is how to get it in ghana ? . i was already thinking of how will i reduce then my girl said , i got you phyna x spedy weightloss congratulations phyna",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "how are on mcrtwt and edtwt at the same time and why are following me",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "ready to lose weight ? check out my program and get fit in no time !",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "today too jig abeg the bag is spedy . keep winning phyna x spedy weightloss congratulations phyna",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "watch this before buying those keto weight loss pills | keto pills review ( scam )",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "at the beginning of my journey with iih , i used to beat myself up really hard on why i was in the situation i was in because of weight . i had such trouble with not putting it all on myself . clipped from a live video on youtube .",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "if you 're working on , let connect and do it together . & lt ; -- but made of water",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "im thanking my past self for starting the habit so my future self can reap the benefits . gym tip gone to the gym . its day one of 365",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "the keto diet may come with some major downsides .",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "start your day off right with slimu up . go the extra mile on anyday . personal trainer/brand ambassador",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "trend tune in today at 12pm et for what your should know about this weight loss trend . tune in on",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "sleep is essential for the human body as it provides us with the time we need to rest while taking care of the other processes that it can not do while we are awake . read more",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "do n't let a busy schedule keep you from reaching your fat loss and muscle building goals . take control of your time and make healthy choices a priority",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "the diabetes drug semaglutide has sparked a weight loss craze , as people realized it can be used to shed pounds quickly when prescribed off-label .",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "where other supplements contain what seems like as many different ingredients as possible in an attempt to s",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "leftover pulled pork keto sloppy joes youll elevate your pulled pork to the next level when you make these fun and delicious leftover pulled pork keto sloppy joes !",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "nothing worse than not being in control of your own body thats why i 'm pro keto it allows you to control your own digestive system",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "i really love that picture",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "sienna miller flashes a glimpse of her toned midriff in a striped crop top and trousers in nyc",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "must read this",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "stay healthy and fit this summer ! kickstart your weight loss journey with my program click the link to find out more !",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "shop spedy weightloss rixari skin secrets x phyna you want to glow ? use rixari",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "ich hoffe euch geht es gut und ihr hattet ein tolles wochenende ? ! meins war nicht so toll aber man macht das beste aus allem , das bild ist vom letzten urlaub .",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "important question how much sparkling water do you drink in a day ? sip and tell !",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "thank you and for having me on today , and allowing me to talk about why we need for both diabetes and weight management .",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "have a curve-a-licious hump day , everyone ! ! !",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "ah ha ha so the cream no be bleaching cream again clown shit abeg make i go drink my detox tea jare phyna x spedy weightloss congratulations phyna",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "next week is awareness week . so . as someone who is recovered , lets talk about scary foods we took back power from . whats something that used to scare you that you now allow yourself to enjoy ? ill start pancakes and waffles .",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "s phyna x spedy weightloss congratulations phyna",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "edtwt , shtwt and nsfwtwt dni /srs lord",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "hope you had a great !",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "health is wealth and `` work-life '' balance can not be underestimated . as you go through the week , here are few tips to help maintain a good healthy lifestyle .",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "sweatcoin wants a healthier you on a healthier planet . we achieve this by converting your steps into a currency to spend on cool products and services . ^ `` ` , ,",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "i love rendering midriff i can do a lot of new things everytime",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "i wonder how the keto egg fasters are doing",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "another woman another window variation des fensterbildes , das ich einst mit nicole in paris inszenieren durfte . hier mit der lieben editha am fenster des fotomuseums grlitz",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "advocate for access , because every person deserves to fully recover .",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "who should i follow on tiktok for thinspo ?",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "get fit , lose weight and strengthen your core muscles .",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "check out this free app it pays to walk * * * * *",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "if youre looking to start on your health and fitness goals this year , you should try the ketogenic diet .",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "back on my bullshit",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "losing weight can seem daunting , but with the right plan it does n't have to be ! click here to start your journey",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "some dudes go dey tweet controversial things just to get you talking and reacting as per theyre bland personalities . please phynation dont respond to them phyna x spedy weightloss congratulations phyna",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "that weightloss tweet really got on your last nerves .",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "when they are praising your fav for her talent you have to be proud she said she a winner with a difference and she legit mean it we are dancing to iyeyeyeye shop spedy weightloss rixari skin secrets x phyna",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "motivation tuesday ! struggling with weight loss ? check out this amazing program and see the results for yourself !",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "here a review of some weight loss tips to keep in mind when you 're on your weight loss journey . click here",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "no need to make it complicated",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "if you want to be the skinniest , most perfect version of yourself you have to make sacrifices , do it for yourself , you got this ! d",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "suffocate ya face in my ass ( meets & ; ft calls available )",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "i need phyna in a comedy movie with bisola , bimbo , timini and broda shaggi god please make it my december wishlist phyna x spedy weightloss congratulations phyna",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "out in the coutryside",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "how do i get my mom to stop making me eat breakfast",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "date night outfit",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "the biggest joke is really seeing people who were dragging rixari , praise it all of a sudden kolomental indeed . phyna x spedy weightloss congratulations phyna",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "celebrating yourself , inside and out , is the key to feeling beautiful today ! put your health first and enjoy the simple things in life .",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "discount up to 31 % off sports research organic mct oil derived from non-gmo organic coconuts | great in keto coffee , tea , smoothies & ; salad dressings | non-gmo project verified & ; vegan certified unflavored",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "i put on some weight recently and it has literally been devastating",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "take advantage of the solution to the recipe recording and organizing problem by getting your own recipe book today check this out !",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "day 22 we went out to get a few things from the grocery store . we ran into these guys .",
+        "output": "Healthy lifestyle & Weight Loss"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "das , vatitosespero q tengan un excelente domingo , yo me puse uno de mis calzones favoritos para empezar el da , y se me puso duraamo la tela , y empezar a lubricar , les gustaq estn usando",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "just discovered the deliciousness of peanut butter ! perfect for satisfying my sweet cravings while staying on track with my low-carb diet .",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "why is edtwt on my tl getoff",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "fasting day 3 , all the latest research says the earlier your eating window the better , so i eat from 8am to 2pm , need to eat 2x because im still healing and prepping my body for surgery , eggs and meat , but im not hungry , side effects of keto plus fasting , should i add light carbs ?",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "is it a gift ?",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "this wig is for good news ooo . so i 'm expecting something amazing soon congratulations phyna phyna x spedy weightloss",
+        "output": "Spam"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "that fact that i gained a bit of weight has ruined my entire day",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "hopefully everyone has a fun sunday !",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "why is there so many edtwt accs following me wtf",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "fwi for my babies on here- i am not fatphobic , these edtwt bitches are getting on my nerves coming for a baby cherri and where does it hurt them most ? yeah- yeah !",
+        "output": "Anti Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "egg and avocado omelette",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "i am so fucking upset that the fatspo tag has been completely overrun by anorexia blogs on tumblr . when the fat positivity folks moved over to twitter , those vultures came in and filled that space with ugliness and hate .",
+        "output": "Weight Loss Drugs"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "i remember last time i was on edtwt people had soft edtwt or hard edtwt in their locations",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "i could be so pretty if i just stopped eating",
+        "output": "Eating Disorder"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "see more of me on . or . someone else just joined my pages ! take a look at",
+        "output": "Body Image"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "boosts your metabolism , balances hormones , there is something about the chicken , spinach , and sundried tomato combo that i just love . i think it makes amazing dishes ,",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "celebrate new years with some snacks , , ,",
+        "output": "Keto & Diet"
+    },
+    {
+        "instruction": "From these communities: Eating Disorder, Keto & Diet, Body Image, Anti Eating Disorder, Healthy lifestyle & Weight Loss, and Weight Loss Drugs; which community does this Tweet belong to?",
+        "input": "beauty free",
+        "output": "Body Image"
+    }
+]
