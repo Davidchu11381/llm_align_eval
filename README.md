@@ -1,8 +1,8 @@
 ## Framework to align LLMs to online communities
 
-This repo is built off https://github.com/hiyouga/LLaMA-Factory 
+- This repo is built off https://github.com/hiyouga/LLaMA-Factory 
 
-Go to bashscripts/full_multi_gpu and run single_node.sh and single_node_rag.sh
+- Go to bashscripts/full_multi_gpu and run single_node.sh and single_node_rag.sh
 
 All sampled data are provided in data.
 
@@ -15,4 +15,6 @@ All sampled data are provided in data.
 
 - helper_files/toxicity.py to generate toxicity scores
 
-- Refer to https://github.com/gchochla/Demux-MEmo to compute emotion scores. 
+- Refer to https://github.com/gchochla/Demux-MEmo to compute emotion scores.
+
+Contact: davidchu11381@gmail.com 
