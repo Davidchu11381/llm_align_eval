@@ -34,7 +34,7 @@ if torch.cuda.is_available():
 
 scorer = lmppl.MaskedLM(
     model='vinai/bertweet-base',
-    use_auth_token="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",
+    use_auth_token="",
     max_length=32,
     num_gpus=4)
 
